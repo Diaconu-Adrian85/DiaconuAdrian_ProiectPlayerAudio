@@ -1,0 +1,2 @@
+rootProject.name = "ProiectPlayerAudio"
+include ':app'
